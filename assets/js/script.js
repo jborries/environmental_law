@@ -18,7 +18,13 @@ $(document).ready(function(){
             }
         }) // end of #partner-slider
 
-
+        $('#history-slider').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:false,
+            dots: true,
+            items: 1,
+        })
 
 
     // Turn off Google Map zooming

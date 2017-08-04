@@ -749,11 +749,11 @@ body{
 	.machine-man .boxed{
 		padding: 0 95px;
 	}
-	.machine-man .row{
+/*	.machine-man .row{
 		background-image: url(../images/machine-man.png);
 		background-repeat: no-repeat;
 		background-position: right 60px bottom 0;
-	}
+	}*/  /*Commented out for the Wendy Cooper Bio Picture...can replace machine-man with another .png of Wendy to reverse sides */
 }
 /*Team*/
 /******/
